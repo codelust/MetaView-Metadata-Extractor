@@ -1,0 +1,24 @@
+C:\Users\C0delust\source\repos\MetaView - Metadata Extractor\MetaView - Metadata Extractor\bin\Release\MetaView - Metadata Extractor.exe.config
+C:\Users\C0delust\source\repos\MetaView - Metadata Extractor\MetaView - Metadata Extractor\bin\Release\MetaView - Metadata Extractor.exe
+C:\Users\C0delust\source\repos\MetaView - Metadata Extractor\MetaView - Metadata Extractor\bin\Release\MetaView - Metadata Extractor.pdb
+C:\Users\C0delust\source\repos\MetaView - Metadata Extractor\MetaView - Metadata Extractor\bin\Release\MetaView - Metadata Extractor.xml
+C:\Users\C0delust\source\repos\MetaView - Metadata Extractor\MetaView - Metadata Extractor\obj\Release\MetaView - Metadata Extractor.vbprojAssemblyReference.cache
+C:\Users\C0delust\source\repos\MetaView - Metadata Extractor\MetaView - Metadata Extractor\obj\Release\MetaView___Metadata_Extractor.Form1.resources
+C:\Users\C0delust\source\repos\MetaView - Metadata Extractor\MetaView - Metadata Extractor\obj\Release\MetaView___Metadata_Extractor.Resources.resources
+C:\Users\C0delust\source\repos\MetaView - Metadata Extractor\MetaView - Metadata Extractor\obj\Release\MetaView - Metadata Extractor.vbproj.GenerateResource.cache
+C:\Users\C0delust\source\repos\MetaView - Metadata Extractor\MetaView - Metadata Extractor\obj\Release\MetaView - Metadata Extractor.vbproj.CoreCompileInputs.cache
+C:\Users\C0delust\source\repos\MetaView - Metadata Extractor\MetaView - Metadata Extractor\obj\Release\MetaView - Metadata Extractor.exe
+C:\Users\C0delust\source\repos\MetaView - Metadata Extractor\MetaView - Metadata Extractor\obj\Release\MetaView - Metadata Extractor.xml
+C:\Users\C0delust\source\repos\MetaView - Metadata Extractor\MetaView - Metadata Extractor\obj\Release\MetaView - Metadata Extractor.pdb
+D:\Programming Languages\Visual Basics\MetaView - Metadata Extractor\MetaView - Metadata Extractor\bin\Release\MetaView - Metadata Extractor.exe.config
+D:\Programming Languages\Visual Basics\MetaView - Metadata Extractor\MetaView - Metadata Extractor\bin\Release\MetaView - Metadata Extractor.exe
+D:\Programming Languages\Visual Basics\MetaView - Metadata Extractor\MetaView - Metadata Extractor\bin\Release\MetaView - Metadata Extractor.pdb
+D:\Programming Languages\Visual Basics\MetaView - Metadata Extractor\MetaView - Metadata Extractor\bin\Release\MetaView - Metadata Extractor.xml
+D:\Programming Languages\Visual Basics\MetaView - Metadata Extractor\MetaView - Metadata Extractor\obj\Release\MetaView - Metadata Extractor.vbprojAssemblyReference.cache
+D:\Programming Languages\Visual Basics\MetaView - Metadata Extractor\MetaView - Metadata Extractor\obj\Release\MetaView___Metadata_Extractor.Form1.resources
+D:\Programming Languages\Visual Basics\MetaView - Metadata Extractor\MetaView - Metadata Extractor\obj\Release\MetaView___Metadata_Extractor.Resources.resources
+D:\Programming Languages\Visual Basics\MetaView - Metadata Extractor\MetaView - Metadata Extractor\obj\Release\MetaView - Metadata Extractor.vbproj.GenerateResource.cache
+D:\Programming Languages\Visual Basics\MetaView - Metadata Extractor\MetaView - Metadata Extractor\obj\Release\MetaView - Metadata Extractor.vbproj.CoreCompileInputs.cache
+D:\Programming Languages\Visual Basics\MetaView - Metadata Extractor\MetaView - Metadata Extractor\obj\Release\MetaView - Metadata Extractor.exe
+D:\Programming Languages\Visual Basics\MetaView - Metadata Extractor\MetaView - Metadata Extractor\obj\Release\MetaView - Metadata Extractor.xml
+D:\Programming Languages\Visual Basics\MetaView - Metadata Extractor\MetaView - Metadata Extractor\obj\Release\MetaView - Metadata Extractor.pdb
