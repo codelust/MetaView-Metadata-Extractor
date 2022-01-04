@@ -1,4 +1,4 @@
-# MetaView---Metadata-Extractor
+# MetaView - Metadata Extractor
 Metadata GUI with Google Maps link.
 
 ![SS1](https://user-images.githubusercontent.com/83002941/134316669-483ec771-06c0-49e8-9208-4395661cbd94.png)
